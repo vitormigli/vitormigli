@@ -33,7 +33,7 @@
 
   <!-- terminal window -->
   <g transform="translate(48,138)">
-    <rect width="600" height="170" rx="10" fill="#161009" stroke="#3a2c1a" stroke-width="1.5"/>
+    <rect width="600" height="195" rx="10" fill="#161009" stroke="#3a2c1a" stroke-width="1.5"/>
     <rect width="600" height="28" rx="10" fill="#1f1710"/>
     <rect y="18" width="600" height="10" fill="#1f1710"/>
     <circle cx="20" cy="14" r="5" fill="#e0574a"/>
@@ -62,7 +62,7 @@
       <g clip-path="url(#clipOut3)"><text font-size="14" fill="#f2e6d0">python &#183; claude api &#183; docker &#183; rag &#183; agents</text></g>
     </g>
 
-    <rect x="20" y="178" width="9" height="15" fill="#e0b25c" opacity="0">
+    <rect x="20" y="182" width="9" height="15" fill="#e0b25c" opacity="0">
       <animate attributeName="opacity" values="0;1;0" dur="1s" begin="4.3s" repeatCount="indefinite"/>
     </rect>
   </g>
