@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0A66C2&height=190&section=header&text=Vitor%20Migliorini&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20building%20production%20LLM%20systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a120b,100:b8860b&height=190&section=header&text=Vitor%20Migliorini&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20building%20production%20LLM%20systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/vitor-migliorini">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+production+LLM+systems;Document+extraction+%C2%B7+RAG+%C2%B7+Agents;Evaluated%2C+shipped%2C+and+monitored+in+prod" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C99A4A&center=true&vCenter=true&width=650&lines=Building+production+LLM+systems;Document+extraction+%C2%B7+RAG+%C2%B7+Agents;Evaluated%2C+shipped%2C+and+monitored+in+prod" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,8 +18,8 @@ _Coming soon — each project will be listed here with a one-line summary and it
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitormigli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=vitormigli&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vitormigli&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&hide_title=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=vitormigli&theme=gruvbox&hide_border=true" height="165"/>
 
 </div>
 
