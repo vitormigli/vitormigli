@@ -1,18 +1,20 @@
-# Vitor Migliorini
+### Hi, I'm Vitor
 
 AI Engineer building production LLM systems: document extraction, RAG, and agents.
+Founder of [Kortex Solutions](https://github.com/kortex-solutions), an AI automation company.
 
-Founder of Kortex Solutions, an AI automation company.
+<br>
 
-## Projects
+**Projects** — coming soon, will be listed here with each project's key metric.
 
-Coming soon — portfolio projects are being built and will be listed here with their key metric.
+<br>
 
-## Stack
+<img align="right" height="160" src="https://github-readme-stats.vercel.app/api?username=vitormigli&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" />
 
-Python, TypeScript, Next.js, Postgres (Supabase), Docker, n8n, Claude API, Metabase.
+**Stack**
+Python · TypeScript · Next.js · Postgres (Supabase) · Docker · n8n · Claude API · Metabase
 
-## Links
+<br clear="right">
 
-LinkedIn: linkedin.com/in/vitor-migliorini
-Email: vitormigli.vm@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-vitor--migliorini-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-migliorini)
+[![Email](https://img.shields.io/badge/-vitormigli.vm%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitormigli.vm@gmail.com)
