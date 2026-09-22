@@ -2,6 +2,8 @@
 
 AI Engineer building production LLM systems: document extraction, RAG, and agents.
 
+Founder of Kortex Solutions, an AI automation company.
+
 ## Projects
 
 Coming soon — portfolio projects are being built and will be listed here with their key metric.
