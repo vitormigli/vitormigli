@@ -14,12 +14,12 @@
       <stop offset="100%" stop-color="#b8860b"/>
     </linearGradient>
 
-    <clipPath id="clipCmd1"><rect width="0" height="20"><animate attributeName="width" from="0" to="80" begin="0.1s" dur="0.35s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clipOut1"><rect width="0" height="20"><animate attributeName="width" from="0" to="150" begin="0.55s" dur="0.45s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clipCmd2"><rect width="0" height="20"><animate attributeName="width" from="0" to="150" begin="1.2s" dur="0.45s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clipOut2"><rect width="0" height="20"><animate attributeName="width" from="0" to="390" begin="1.8s" dur="0.8s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clipCmd3"><rect width="0" height="20"><animate attributeName="width" from="0" to="130" begin="2.8s" dur="0.4s" fill="freeze"/></rect></clipPath>
-    <clipPath id="clipOut3"><rect width="0" height="20"><animate attributeName="width" from="0" to="450" begin="3.35s" dur="0.85s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clipCmd1"><rect y="-14" width="0" height="20"><animate attributeName="width" from="0" to="80" begin="0.1s" dur="0.35s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clipOut1"><rect y="-14" width="0" height="20"><animate attributeName="width" from="0" to="150" begin="0.55s" dur="0.45s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clipCmd2"><rect y="-14" width="0" height="20"><animate attributeName="width" from="0" to="150" begin="1.2s" dur="0.45s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clipOut2"><rect y="-14" width="0" height="20"><animate attributeName="width" from="0" to="390" begin="1.8s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clipCmd3"><rect y="-14" width="0" height="20"><animate attributeName="width" from="0" to="130" begin="2.8s" dur="0.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="clipOut3"><rect y="-14" width="0" height="20"><animate attributeName="width" from="0" to="450" begin="3.35s" dur="0.85s" fill="freeze"/></rect></clipPath>
   </defs>
 
   <rect width="1200" height="320" fill="url(#bg)"/>
