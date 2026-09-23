@@ -62,6 +62,24 @@ on local compute.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[⚠️ rag-normas-regulamentadoras](https://github.com/vitormigli/rag-normas-regulamentadoras)**
+<br>RAG over real Brazilian workplace-safety regulations (5 gov.br PDFs), hybrid retrieval on a real Postgres + pgvector database (Supabase), citing the exact item or refusing to answer when the context doesn't cover it.
+<br><img src="https://img.shields.io/badge/refusal_accuracy-81.2%25-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/citation_accuracy-75%25-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/Postgres-pgvector-b8860b?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[🧪 promptcheck](https://github.com/vitormigli/promptcheck)**
+<br>Cassette-based regression testing for LLM prompts — record a real response once, replay it for free forever in CI. YAML test suites, an assertion library, and baseline-vs-current regression detection.
+<br><img src="https://img.shields.io/badge/CI_API_cost-%240.00-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/tests-35_offline-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/regressions_caught-1%2F1-b8860b?style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
