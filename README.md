@@ -80,6 +80,15 @@ on local compute.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[🛠️ n8n-sales-agent](https://github.com/vitormigli/n8n-sales-agent)**
+<br>WhatsApp sales agent built entirely in n8n's canvas — RAG over a store's knowledge base (Supabase pgvector), lead capture, human escalation, per-conversation memory. Tested with promptcheck, which caught a real prompt bug before it shipped.
+<br><img src="https://img.shields.io/badge/prompt_tests-6%2F6_passing-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/regressions_caught-1%2F1-b8860b?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-self--hosted-EA4B71?style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
