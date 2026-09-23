@@ -89,6 +89,15 @@ on local compute.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[🚗 cv-traffic-counter](https://github.com/vitormigli/cv-traffic-counter)**
+<br>YOLOv8 + ByteTrack over OpenCV — detects people/vehicles from any video source (file, webcam, RTSP), counts line crossings by direction, fires zone-entry alerts. Found and root-caused a real tracker ID-fragmentation bug mid-project (one crossing counted 3x); fixed at the tracker config, not papered over in the counting logic.
+<br><img src="https://img.shields.io/badge/eval-3%2F3_checks_passing-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/duplicate_events-cut_50%25-b8860b?style=flat-square"/> <img src="https://img.shields.io/badge/inference-100%25_local-2ea44f?style=flat-square"/>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
