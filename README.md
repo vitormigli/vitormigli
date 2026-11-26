@@ -98,15 +98,6 @@ on local compute.
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-**[🚦 agent-gateway](https://github.com/vitormigli/agent-gateway)**
-<br>LLM agent gateway for shipping model and prompt changes safely: LiteLLM routing with candidate → stable fallback, sticky OpenFeature rollouts (flagd), and blue/green + canary deploys behind nginx. Caught two experiments silently confounded by a shared hash (394/394 users) and a "promote" that left 90/100 requests on the old version.
-<br><img src="https://img.shields.io/badge/rollout_error-0.24pp_on_20k_users-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/fallback-200%2F200_served-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/canary-blue%2Fgreen_%2B_nginx-b8860b?style=flat-square"/>
-
-</td>
-</tr>
 </table>
 
 <div align="center">
